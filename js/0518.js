@@ -1,7 +1,4 @@
 
-
-
-
 const promise = new Promise(function(resolve,reject){
     // resolve(variable1);
     reject(variable2);
