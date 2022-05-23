@@ -1,0 +1,42 @@
+.contents{
+    background-color: aqua;
+    width: auto;
+    height: 800px;
+    position: relative;
+
+    background-color: transparent;
+    border-width: medium;
+    border-style: none;
+    border-color: currentcolor;
+    border-radius: 0;
+    box-sizing: content-box;
+    color: inherit;
+    height: auto;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: 0;
+    padding: 0;
+    text-align: inherit;
+    vertical-align: baseline;
+    width: auto;
+    border: 1px solid;
+
+ 
+}
+
+.modal{
+
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0 0;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer;
+    text-decoration: none;
+    z-index: 10;
+}
