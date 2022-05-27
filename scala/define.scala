@@ -24,3 +24,5 @@ class Fizz2(name: String) extends Bar(name) with Dog
 trait Cat{
     def meow() : String
 }
+
+aa
